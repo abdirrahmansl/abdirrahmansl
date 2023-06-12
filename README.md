@@ -1,6 +1,6 @@
 Hi, I’m Abdirrahman a Data and Software Engineer based in London.
 
-With experience in data pipeling and cloud deployment
+Proficient in data pipeling and cloud deployment.
 
 I also enjoy developing full-stack application in my spare time.
 
